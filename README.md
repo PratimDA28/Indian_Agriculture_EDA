@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="a9dd46a1b982b1605e311936aef6aab0.gif" width="300" alt="Agriculture GIF">
+  <img src="a9dd46a1b982b1605e311936aef6aab0.gif" width="100%" alt="Agriculture GIF">
 </p>
 
 # 🌾 Indian Agriculture Exploratory Data Analysis (EDA) Project
